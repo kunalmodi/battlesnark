@@ -2,6 +2,8 @@
 
 ZK-Snark powered Battleship on the Ethereum Blockchain
 
+Details: https://kunalm.xyz/posts/zksnark-battleship.html
+
 To run:
 ```
 yarn install
